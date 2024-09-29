@@ -1,16 +1,15 @@
-# practical
+# Practical
 
-A new Flutter project.
+## Description
+The Practical project consists of a simple Todo module (CRUD operations) and a Movies listing and searching feature.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation Instructions
+1. Ensure you have Flutter version 3.22.2 installed.
+2. Clone the repository:
+   git clone https://github.com/kevinmehta18/vlocity-practical.git
+3. Navigate to project directory:
+   cd vlocity-practical
+4. Install dependencies:
+   flutter pub get
+5. Run project
+   flutter run
